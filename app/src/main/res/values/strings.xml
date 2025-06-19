@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Calcul d\'IMC</string>
+    <string name="first_name">First Name :</string>
+    <string name="last_name">Last name :</string>
+    <string name="mess_erreur_operation_non_permise">Opération not permitted !</string>
+    <string name="back">Back</string>
+    <string name="imc">IMC</string>
+    <string name="invalid_weight">Invalid weight !</string>
+    <string name="invalid_size">Invalid size !</string>
+    <string name="enter_last_name">Enter your last name</string>
+    <string name="enter_first_name">Enter your first name</string>
+    <string name="calculate_imc">Calculate IMC</string>
+    <string name="raz">RAZ</string>
+    <string name="weight">Weight :</string>
+    <string name="weight_hint">Enter the weight</string>
+    <string name="size">Size :</string>
+    <string name="size_hint">Enter the size</string>
+    <string name="meter">Meter</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="birthday">Birthday :</string>
+    <string name="conversion_problem">Conversion problem of datas !</string>
+    <string name="input_problem">Input problem !</string>
+
+</resources>
